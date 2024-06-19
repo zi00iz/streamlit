@@ -17,7 +17,7 @@ st.sidebar.write('**당신의 선택** : ', your_option)
 folder = './data/'
 
 image_files = [
-    'hhttps://github.com/zi00iz/streamlit/blob/main/sidebar/data/Gogh.png?raw=true', 
+    'https://github.com/zi00iz/streamlit/blob/main/sidebar/data/Gogh.png?raw=true', 
     'https://github.com/zi00iz/streamlit/blob/main/sidebar/data/Munch.png?raw=true', 
     'https://github.com/zi00iz/streamlit/blob/main/sidebar/data/ShinYoonbok.png?raw=true', 
     'https://github.com/zi00iz/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true'
